@@ -4,6 +4,6 @@
     @include('layouts.headers.cards')
     
 
-        @include('layouts.footers.auth')
+        <!-- @include('layouts.footers.auth') -->
     </div>
 @endsection
