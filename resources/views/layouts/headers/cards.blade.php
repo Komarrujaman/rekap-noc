@@ -105,7 +105,7 @@
                                 </div>
                                 <div class="col-auto">
                                     <div class="icon icon-shape text-white rounded shadow" style="background-color: #f01717">
-                                        <i class="fa-regular fa-lightbulb"></i>
+                                        <i class="fa-solid fa-lightbulb"></i>
                                     </div>
                                 </div>
                             </div>
